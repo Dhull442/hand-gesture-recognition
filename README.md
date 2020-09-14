@@ -30,12 +30,12 @@ modified frames are given to the trained model for inferencing.
 ### Screenshots
 <table>
 <tr>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/white/w_junk.png"><figcaption>Junk/Nothing recognized</figcaption></figure></td>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/white/w_stop.png"><figcaption>Stop recognized</figcaption></figure></td>
+<td><figure><img src="./white/w_junk.png"><figcaption>Junk/Nothing recognized</figcaption></figure></td>
+<td><figure><img src="./white/w_stop.png"><figcaption>Stop recognized</figcaption></figure></td>
 </tr>
 <tr>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/white/w_left.png"><figcaption>Left recognized</figcaption></figure></td>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/white/w_right.png"><figcaption>Right recognized</figcaption></figure></td>
+<td><figure><img src="./white/w_left.png"><figcaption>Left recognized</figcaption></figure></td>
+<td><figure><img src="./white/w_right.png"><figcaption>Right recognized</figcaption></figure></td>
 </tr>
 </table>
 
@@ -58,12 +58,12 @@ option to re-calibrate the colour range for current camera conditions.
 ### Screenshots
 <table>
 <tr>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/generic/g_junk.png"><figcaption>Junk/Nothing recognized</figcaption></figure></td>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/generic/g_stop.png"><figcaption>Stop recognized</figcaption></figure></td>
+<td><figure><img src="./generic/g_junk.png"><figcaption>Junk/Nothing recognized</figcaption></figure></td>
+<td><figure><img src="./generic/g_stop.png"><figcaption>Stop recognized</figcaption></figure></td>
 </tr>
 <tr>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/generic/g_left.png"><figcaption>Left recognized</figcaption></figure></td>
-<td><figure><img src="https://github.com/Dhull442/hand-gesture-recognition/generic/g_right.png"><figcaption>Right recognized</figcaption></figure></td>
+<td><figure><img src="./generic/g_left.png"><figcaption>Left recognized</figcaption></figure></td>
+<td><figure><img src="./generic/g_right.png"><figcaption>Right recognized</figcaption></figure></td>
 </tr>
 </table>
 
