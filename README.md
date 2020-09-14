@@ -1,7 +1,7 @@
 # Hand Gesture Recognition
 
 ### Created by:
-[Saksham Dhull!](https://github.com/Dhull442) and [Shourya Aggarwal!](https://github.com/ShouryaAggarwal) for Computer Vision course under Prof. Chetan Arora.
+[Saksham Dhull](https://github.com/Dhull442) and [Shourya Aggarwal](https://github.com/ShouryaAggarwal) for Computer Vision course under Prof. Chetan Arora.
 
 ## Introduction
 We develop a model that takes pre-processed frames as input and outputs the gesture created by the hand.
